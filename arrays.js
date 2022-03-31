@@ -58,7 +58,7 @@ let citrusFruits = fruits.slice(0,2)
 console.log (fruits);
 console.log (citrusFruits);
 
-let evenNumbers = [2, 4, 6];
+
 let oddNumbers = [1,3,5];
 let primeNumbers = [2,3,5];
 
