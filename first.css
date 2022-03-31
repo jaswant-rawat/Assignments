@@ -45,9 +45,7 @@ adding first comment
 
 *,
 *::before,
-*::after {
-  box-sizing: border-box;
-}
+
 
 html {
   font-family: sans-serif;
